@@ -736,4 +736,19 @@ header{
       .one{
             margin-left: 30px !important;
       }
+      .bar-details{
+            font-size: 15px;
+      }
+      .input{
+           padding-left: 5px;
+      }
+      .recap{
+            margin-left: 10px;
+      }
+      .hud{
+            font-size: 13px;
+      }
+      .nav-link{
+            width: max-content;
+      }
 }
